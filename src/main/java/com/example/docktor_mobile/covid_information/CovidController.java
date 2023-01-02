@@ -115,7 +115,7 @@ public class CovidController {
 
         vietnamSummary = covidService.getVietNamSummary(jsonObject);
         Map<String, Object> map = new HashMap<>();
-        map.put("result", vietnamSummary.getInfectedTotal());
+        map.put("result", vietnamSummary.getInfectedInDay());
         return map;
     }
     @GetMapping("/global/get-total-recovered")
