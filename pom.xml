@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>docktor_mobile</artifactId>
+    <artifactId>ducktorbackend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>docktorbackend</name>
     <description>docktorbackend</description>
