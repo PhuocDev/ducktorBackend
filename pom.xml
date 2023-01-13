@@ -11,10 +11,10 @@
     <groupId>com.example</groupId>
     <artifactId>docktor_mobile</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>docktor_mobile</name>
-    <description>docktor_mobile</description>
+    <name>docktorbackend</name>
+    <description>docktorbackend</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>

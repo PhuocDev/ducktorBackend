@@ -23,5 +23,3 @@ Psrc/main/java/com/example/docktor_mobile/ducktor/controllers/MainController.jav
 Osrc/main/java/com/example/docktor_mobile/covid_information/CovidController.java,4\4\4446206d74f98a11274f5b11c71ee2d5d3481679
 K
 src/main/appengine/app.yaml,3\2\32c24d47a2fe10bb17abab4b016d97d81f8d6f76
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
