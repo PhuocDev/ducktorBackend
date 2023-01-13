@@ -1,0 +1,125 @@
+
+Š
+java:S1192Ü"sDefine a constant instead of duplicating this literal "                    \"@type\": \"WebPageElement\"
+" 5 times.(‚–¢¤
+j
+java:S1192o"TDefine a constant instead of duplicating this literal "                }
+" 33 times.(ÚÜƒ
+b
+java:S1192ã"KDefine a constant instead of duplicating this literal "        }
+" 6 times.(ÚÜƒ
+z
+java:S1192ê"^Define a constant instead of duplicating this literal "            \"position\": 0,
+" 4 times.(ôý““üÿÿÿÿ
+ƒ
+java:S1192÷"gDefine a constant instead of duplicating this literal "                    \"position\": 0,
+" 16 times.(ôý““üÿÿÿÿ
+x
+java:S1192œ"aDefine a constant instead of duplicating this literal "            \"headline\": \"\",
+" 6 times.(ÆíÓ˜
+{
+java:S1192ñ"dDefine a constant instead of duplicating this literal "            \"identifier\": \"0\",
+" 9 times.(¤öüá
+u
+java:S1192Ž"^Define a constant instead of duplicating this literal "            \"position\": 1,
+" 3 times.(žòóŸ
+ƒ
+java:S1192œ"mDefine a constant instead of duplicating this literal "                    \"name\": \"Do/Don't\",
+" 4 times.(Ýšžx
+
+java:S1192ü"hDefine a constant instead of duplicating this literal "                    \"headline\": \"\"
+" 8 times.(²µ÷Ÿ
+Œ
+java:S1192ˆ"uDefine a constant instead of duplicating this literal "                    \"@type\": \"WebPageElement\",
+" 34 times.(¤’§¿
+|
+java:S1192õ"eDefine a constant instead of duplicating this literal "            \"mainEntityOfPage\": [
+" 8 times.(Æ˜¶»
+y
+java:S1192†"]Define a constant instead of duplicating this literal "            \"hasPart\": [
+" 21 times.(»ñðÄþÿÿÿÿ
+l
+java:S1192–"PDefine a constant instead of duplicating this literal "            ]
+" 16 times.(ü©þ˜øÿÿÿÿ
+
+java:S1192"qDefine a constant instead of duplicating this literal "            \"@type\": \"HealthTopicContent\",
+" 13 times.(îó‡êùÿÿÿÿ
+ƒ
+java:S1192ø"lDefine a constant instead of duplicating this literal "                    \"identifier\": \"1\",
+" 8 times.(¶œÜð
+ˆ
+java:S1192ò"lDefine a constant instead of duplicating this literal "            \"name\": \"section heading\",
+" 9 times.(ƒ¯ÿ¯ûÿÿÿÿ
+€
+java:S1192i"jDefine a constant instead of duplicating this literal "                \"@type\": \"ListItem\",
+" 4 times.(ùõ™
+l
+java:S1192‹"UDefine a constant instead of duplicating this literal "                },
+" 10 times.(¥ÁÊÁ
+g
+java:S1192þ"QDefine a constant instead of duplicating this literal "            ],
+" 13 times.(Â¥—?
+j
+java:S1192h"ODefine a constant instead of duplicating this literal "            {
+" 4 times.(Ÿñ¼Ñÿÿÿÿÿ
+
+java:S1192"eDefine a constant instead of duplicating this literal "            \"description\": \"\",
+" 11 times.(’ÐÔ¯üÿÿÿÿ
+ˆ
+java:S1192×"lDefine a constant instead of duplicating this literal "                    \"identifier\": \"5\",
+" 6 times.(ŸÚ¹ýþÿÿÿÿ
+d
+java:S1192—"MDefine a constant instead of duplicating this literal "        },
+" 23 times.(¥ÁÊÁ
+€
+java:S1192‰"iDefine a constant instead of duplicating this literal "                    \"headline\": \"\",
+" 7 times.(ÆíÓ˜
+]
+java:S1192^"HDefine a constant instead of duplicating this literal "    ],
+" 9 times.(Â¥—?
+ƒ
+java:S1192ô"lDefine a constant instead of duplicating this literal "            \"@type\": \"WebPageElement\",
+" 9 times.(¤’§¿
+
+java:S1192é"sDefine a constant instead of duplicating this literal "            \"linkRelationship\": \"Navigation\",
+" 7 times.(¦ýÈÃúÿÿÿÿ
+ƒ
+java:S1192"lDefine a constant instead of duplicating this literal "                    \"identifier\": \"9\",
+" 4 times.(å¼Ëû
+©
+java:S1192È"ŒDefine a constant instead of duplicating this literal "            \"hasHealthAspect\": \"http://schema.org/CausesHealthAspect\",
+" 3 times.(¡èä—øÿÿÿÿ
+^
+java:S1192L"HDefine a constant instead of duplicating this literal "    },
+" 8 times.(¥ÁÊÁ
+‰
+java:S1192û"mDefine a constant instead of duplicating this literal "                    \"name\": \"markdown\",
+" 8 times.(Ç »Šúÿÿÿÿ
+}
+java:S1192ç"fDefine a constant instead of duplicating this literal "            \"@type\": \"LinkRole\",
+" 7 times.(¶Æ©î
+s
+java:S1192k"]Define a constant instead of duplicating this literal "                \"item\": {
+" 4 times.(¢ü€µ
+p
+java:S1192‡"TDefine a constant instead of duplicating this literal "                {
+" 39 times.(Ÿñ¼Ñÿÿÿÿÿ
+h
+java:S1192€"LDefine a constant instead of duplicating this literal "        {
+" 29 times.(Ÿñ¼Ñÿÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«§‹Åýÿÿÿÿ
+z
+java:S1104E"dMake sampleJsonResultHeadache a static final constant or non-public and provide accessors if needed.(ç‰º³
+s
+java:S1104º"\Make sampleJsonResult a static final constant or non-public and provide accessors if needed.(·ëýô
+T
+java:S1444E">Make this "public static sampleJsonResultHeadache" field final(ç‰º³
+M
+java:S1444º"6Make this "public static sampleJsonResult" field final(·ëýô
+Q	java:S1251"<This block of commented-out lines of code should be removed.( ÇÜÝ
+D
+java:S1481:")Remove this unused "uri2" local variable.(ìÉ¨ëùÿÿÿÿ
+F
+java:S1481;"1Remove this unused "restTemplate" local variable.(— ’
+Q	java:S125@"<This block of commented-out lines of code should be removed.( ÇÜÝ

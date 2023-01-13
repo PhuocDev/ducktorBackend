@@ -11,3 +11,17 @@ n
 >src/main/java/com/example/docktor_mobile/news/NewsService.java,7\e\7e409ce08d208a740c89562d63d33032fde1a0c5
 q
 Asrc/main/java/com/example/docktor_mobile/news/NewsController.java,6\9\692c03defc336b18b6a71e5d6707a69943904b06
+g
+7src/main/java/com/example/docktor_mobile/news/News.java,6\1\61f5f7a04f63c1abbd97658527c009c780d0c71d
+‚
+Rsrc/main/java/com/example/docktor_mobile/heathcareLocation/HealthCareLocation.java,f\b\fb71bb105eba2cd670b37a03cf6265bc737d8b90
+x
+Hsrc/main/java/com/example/docktor_mobile/heathcareLocation/Location.java,7\4\7490939319348c1a4c2e899451fd1c8103ffb79b
+€
+Psrc/main/java/com/example/docktor_mobile/ducktor/controllers/MainController.java,0\4\0467a3dcd6ef4633b5e525d6bddc14cd19aa82b8
+
+Osrc/main/java/com/example/docktor_mobile/covid_information/CovidController.java,4\4\4446206d74f98a11274f5b11c71ee2d5d3481679
+K
+src/main/appengine/app.yaml,3\2\32c24d47a2fe10bb17abab4b016d97d81f8d6f76
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
