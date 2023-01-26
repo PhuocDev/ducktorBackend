@@ -6,9 +6,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import java.awt.image.ImageProducer;
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/news")
@@ -17,7 +20,7 @@ public class NewsController {
     NewsService newsService;
 
     @GetMapping
-    public List<News> getTopNews() {
+    public Map<String,List<News>> getTopNews() {
         List<News> topNews = new ArrayList<>();
         LocalDate to = java.time.LocalDate.now();
         LocalDate from = LocalDate.now().minusDays(2);
@@ -33,7 +36,10 @@ public class NewsController {
         //get Json from api
         String jsonString = restTemplate.getForObject(uri, String.class);
         topNews = newsService.getTopNews(jsonString);
-        return topNews;
+        Map<String, List<News>> result = new HashMap<>();
+        result.put("data", topNews);
+        //return topNews;
+        return result;
     }
 
 }
